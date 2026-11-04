@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color:rgb(2, 34, 59);
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(56, 154, 184)
+}
+
+span{
+    color: rgb(89, 167, 219);
+    font-size: 19px;
+    font-style: italic;
+    font-weight: lighter;
+}
+

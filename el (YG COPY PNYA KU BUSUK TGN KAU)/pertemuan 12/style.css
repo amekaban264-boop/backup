@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+table {
+    border-collapse: collapse;
+}
+
+h1 {
+    margin-bottom: 12px;
+}
+
+th {
+    border: 2px solid rgb(24, 95, 153);
+    padding: 3px 6px;
+}
+
+td {
+    border: 2px solid rgb(68, 120, 155);
+    padding: 4px 6px;
+}
